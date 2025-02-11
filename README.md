@@ -1,12 +1,13 @@
 # JavaScript Learning Journey
 
-Welcome to my repository where I track my progress and projects as I learn JavaScript. This repository serves as both a personal diary and a showcase of my growth in coding with JavaScript.
+Hi, I'm Abrar Ali 👋! Welcome to my repository where I track my progress and projects as I learn JavaScript. This repository serves as both a personal diary and a showcase of my growth in coding with JavaScript
+
 
 ## About This Repository
 
 In this repository, you will find various folders and files documenting my journey:
-- **Practice Codes**: Daily exercises and small snippets of code that help me understand the fundamentals of JavaScript.
-- **Projects**: Larger, more complex projects that integrate various JavaScript concepts and possibly other technologies.
+- [Practice Codes](/Practice%20Code): Daily exercises and small snippets of code that help me understand the fundamentals of JavaScript.
+- [Practice Projects](/Practice%20Project): Larger, more complex projects that integrate various JavaScript concepts and possibly other technologies.
 
 ## Objectives
 The main goals of this repository are:
