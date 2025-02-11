@@ -2,12 +2,11 @@
 
 Hi, I'm Abrar Ali 👋! Welcome to my repository where I track my progress and projects as I learn JavaScript. This repository serves as both a personal diary and a showcase of my growth in coding with JavaScript
 
-
 ## About This Repository
 
 In this repository, you will find various folders and files documenting my journey:
-- [Practice Codes](/Practice%20Code): Daily exercises and small snippets of code that help me understand the fundamentals of JavaScript.
-- [Practice Projects](/Practice%20Project): Larger, more complex projects that integrate various JavaScript concepts and possibly other technologies.
+- **Practice Codes**: Daily exercises and small snippets of code that help me understand the fundamentals of JavaScript.
+- **Projects**: Larger, more complex projects that integrate various JavaScript concepts and possibly other technologies.
 
 ## Objectives
 The main goals of this repository are:
@@ -16,8 +15,8 @@ The main goals of this repository are:
 - To reflect on my experiences and improve my coding practices.
 
 ## How to Navigate
-- For basic exercises, visit the `Practice Codes` folder.
-- For larger projects and applications, check out the `Projects` folder.
+- For basic exercises, visit the [Practice Codes](/Practice%20Code) folder.
+- For larger projects and applications, check out the [Practice Projects](/Practice%20Project)   folder.
 
 ## Contributing
 Feel free to fork this repository or submit pull requests. I'm open to collaboration and would love to learn from the community as well.
