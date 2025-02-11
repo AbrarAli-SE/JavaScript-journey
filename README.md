@@ -23,7 +23,8 @@ Feel free to fork this repository or submit pull requests. I'm open to collabora
 
 ## Contact
 If you have any questions, suggestions, or just want to connect, here's how you can reach me:
-- Email: [your-email@example.com]
-- LinkedIn: [LinkedIn Profile](your-linkedin-url)
+- Email: [Email](abrarali.se@gmail.com)
+- Whatsapp: [Whatsapp](https://wa.me/923411193641)
+- LinkedIn: [LinkedIn ](https://www.linkedin.com/in/abrar-ali-se)
 
 Thank you for visiting my learning journey in JavaScript. Let's code and grow together!
