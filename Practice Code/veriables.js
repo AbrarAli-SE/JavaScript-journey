@@ -1,15 +1,18 @@
 console.log('Abrar Ali')
 
-const a = 'Abrar' //unchanged able value
-let b = 12345    // number
-let c = 'ab'  // string
-let d = false // boolean 
-let e = null // Null
-let f //undefined 
+const a = 'Abrar' // Constant value, cannot be changed.
+let b = 12345    // Number data type.
+let c = 'ab'     // String data type.
+let d = false    // Boolean data type.
+let e = null     // Null data type.
+let f // Variable 'f' is declared but not defined, defaults to undefined.
 
-//let work in scope but var did not work in scope mean we can use var outer then any body but let cannot that's why we ever use let instead of var got it
+// Explanation on 'let' vs 'var':
+// 'let' has block scope, meaning it is limited to the block in which it is defined.
+// 'var' has function scope and can be accessed anywhere within the function it was declared in.
+// Prefer 'let' over 'var' to avoid issues related to scope leakage.
 
-//single method  
+// Single output method:
 console.log(a);
 console.log(b);
 console.log(c);
@@ -17,10 +20,9 @@ console.log(d);
 console.log(e);
 console.log(f);
 
-// table method 
+// Output using table method:
+console.table([a, b, c, d, e, f]);
 
-console.table([a,b,c,d,e,f])
-
-// try to change constant but it will show error 
-// a = 'ali'
-// console.log(a)
+// Trying to change a constant will result in an error:
+// a = 'ali';
+// console.log(a);
